@@ -1,0 +1,34 @@
+
+# Python environments
+.venv/
+venv/
+env/
+myenv/
+gitignore/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Raw datasets
+data/*
+!data/README.md
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
