@@ -215,7 +215,7 @@ Netflix Project/
 ### Step 1: Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <my-github-repository-url>
 cd "Netflix Project"
 ```
 
